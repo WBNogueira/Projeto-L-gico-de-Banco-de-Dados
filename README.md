@@ -1,5 +1,5 @@
-#  Construindo seu Primeiro Projeto Lógico de Banco de Dados
-
+#  Construindo seu Primeiro Projeto Lógico de Banco de Dados para E-commerce
+ 
 ### .Criação de  modelagem com diagrama EER;  
 ### . Script  da criação  do banco de dados e tabelas, utilizando workbanch MySQL ;
 ### . Script de inserção de dados nas tabelas e com queries  com JOINs.
